@@ -1,4 +1,4 @@
-# Tees and Water Assignment
+# Trees and Water Assignment
 
 ## Prerequisites
 
